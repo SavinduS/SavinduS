@@ -28,11 +28,13 @@
   <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" align="left" />
   </p>
+
+  <p align="right">
+  <img width="40%" src="https://github.com/SavinduS/SavinduS/blob/main/ggg.png" width="250" alt="UI/UX Design Illustration" />
+</p>
 </div>
 
-<p align="right">
-  <img width="48%" src="images/ggg.png" width="300" alt="UI/UX Design Illustration" />
-</p>
+
 
 <div>
   <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=savindus&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contribution%20Activity&bg_color=1a1b27&point=70a5fd&line=70a5fd&days=30&height=300" alt="Monthly Contribution Graph" align="right" /></p>
